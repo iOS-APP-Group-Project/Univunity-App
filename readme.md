@@ -133,7 +133,7 @@ Univunity is a swipe-based college discovery and application platform for iOS. U
 
 ## MVP Demo
 
-![MVP Demo](mvpdemo.mov)
+[![MVP Demo](https://img.youtube.com/vi/kH5p2kJn51g/0.jpg)](https://youtube.com/shorts/kH5p2kJn51g)
 
 ---
 
