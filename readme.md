@@ -124,10 +124,10 @@ Univunity is a swipe-based college discovery and application platform for iOS. U
 
 ## Wireframes
 
-![Wireframe 1](Wireframes/Screenshot%202026-03-28%20at%205.59.57%20PM.png)
-![Wireframe 2](Wireframes/Screenshot%202026-03-28%20at%206.00.11%20PM.png)
-![Wireframe 3](Wireframes/Screenshot%202026-03-28%20at%206.00.27%20PM.png)
-![Wireframe 4](Wireframes/Screenshot%202026-03-28%20at%206.00.40%20PM.png)
+![Wireframe 1](Wireframes/Screenshot%202026-03-28%20at%205.59.57%E2%80%AFPM.png)
+![Wireframe 2](Wireframes/Screenshot%202026-03-28%20at%206.00.11%E2%80%AFPM.png)
+![Wireframe 3](Wireframes/Screenshot%202026-03-28%20at%206.00.27%E2%80%AFPM.png)
+![Wireframe 4](Wireframes/Screenshot%202026-03-28%20at%206.00.40%E2%80%AFPM.png)
 
 ---
 
