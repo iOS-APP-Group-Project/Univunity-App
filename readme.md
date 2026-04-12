@@ -30,21 +30,21 @@ Univunity is a swipe-based college discovery and application platform for iOS. U
 ### 1. User Stories
 
 #### Required (Must-Have)
-* User can create an account and log in securely
-* User can complete an onboarding flow to set preferences (intended major, location preference, budget range, degree type)
-* User can swipe right to save a college or swipe left to pass
-* User can tap on a college card to view its full profile (tuition, majors, location, acceptance rate, requirements)
-* User can save a college to their Favorites list
-* User can initiate an application to a saved college through the app
-* User can view all saved/favorited colleges in one screen
-* User can access and edit their profile at any time
+- [x] User can create an account and log in securely
+- [ ] User can complete an onboarding flow to set preferences (intended major, location preference, budget range, degree type)
+- [ ] User can swipe right to save a college or swipe left to pass
+- [ ] User can tap on a college card to view its full profile (tuition, majors, location, acceptance rate, requirements)
+- [ ] User can save a college to their Favorites list
+- [ ] User can initiate an application to a saved college through the app
+- [ ] User can view all saved/favorited colleges in one screen
+- [ ] User can access and edit their profile at any time
 
 #### Optional (Nice-to-Have)
-* User can track the status of submitted applications (Not Started, In Progress, Submitted, Decision Received) in an Application Dashboard
-* User can receive push notifications for application deadlines and new college matches
-* User can receive personalized college recommendations based on GPA, interests, and preferences
-* User can filter and sort the college swipe feed (by location, tuition, major availability)
-* User can add notes to a saved college
+- [ ] User can track the status of submitted applications (Not Started, In Progress, Submitted, Decision Received) in an Application Dashboard
+- [ ] User can receive push notifications for application deadlines and new college matches
+- [ ] User can receive personalized college recommendations based on GPA, interests, and preferences
+- [ ] User can filter and sort the college swipe feed (by location, tuition, major availability)
+- [ ] User can add notes to a saved college
 
 ---
 
