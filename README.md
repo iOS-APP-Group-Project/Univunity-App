@@ -1,10 +1,13 @@
 # Project 6 - *Univinity*
 
-Submitted by: **Sara Kanu**
-
 **Univinity** is an iOS application that helps students discover, evaluate, and track colleges based on their personal preferences. The app allows users to swipe through colleges, save and favorite schools, compare options, add notes, and track application progress in one centralized platform.
 
 Time spent: **12 hours** spent in total
+
+GIF:
+![App Demo](Adobe%20Express%20-%20Adobe%20Express%20-%20Screen%20Recording%202026-04-24%20at%204.48.09%E2%80%AFPM.gif)
+
+
 
 ---
 
