@@ -8,7 +8,7 @@ Required Features
 
 The following required functionality is completed:
 
- [x] Users can browse colleges through a swipe-based Discover screen
+ [x]Users can browse colleges through a swipe-based Discover screen
  [x]Users can save colleges and view them in a Saved tab
  [x]Users can search and filter colleges by criteria (type, size, tuition, etc.)
  [x]Users can view detailed information about each college
