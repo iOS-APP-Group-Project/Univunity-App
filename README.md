@@ -52,7 +52,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-👉 *(Insert Loom / demo video link here)*  
+https://www.youtube.com/watch?v=u-GVH9fUjfY
 
 ---
 
